@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rajSunny5714/url-short-react.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rajSunny5714/url-short-springboot-backend.git
